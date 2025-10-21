@@ -1,28 +1,19 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Mayoi Works",
+    "id":"com.github.mayoi3.mayoi-vpm-repo",
+    "url":"https://mayoi3.github.io/mayoi-vpm-repo/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"239145562+mayoi3@users.noreply.github.com",
+        "name":"mayoi",
+        "url":"https://github.com/mayoi3"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"A repository of packages for Mayoi Works",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/mayoi3/mayoi-vpm-repo",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
+        "mayoi3/queue-board"
     ]
 }
